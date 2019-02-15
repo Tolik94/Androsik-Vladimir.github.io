@@ -18,3 +18,7 @@ P.s. Since I have a problem with Padawans.net, I use another account(https://git
 2. PadawansTask1 https://github.com/Lgeprorok/PadawansTask1
 3. PadawansTask2 https://github.com/Lgeprorok/PadawansTask2
 4. PadawansTask3 https://github.com/Lgeprorok/PadawansTask3
+5. PadawansTask4 https://github.com/Lgeprorok/PadawansTask4
+6. PadawansTask5 https://github.com/Lgeprorok/PadawansTask5
+7. PadawansTask6 https://github.com/Lgeprorok/PadawansTask6
+8. PadawansTask13 https://github.com/Lgeprorok/PadawansTask13
