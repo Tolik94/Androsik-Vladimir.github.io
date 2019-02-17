@@ -12,7 +12,7 @@ I am interested in the device of radio engineering, and also I actively read boo
 
 ## Homework
 
-P.s. Since I have a problem with Padawans.net, I use another account(https://github.com/Tolik94) for submits.
+P.s. Since I have a problem with access to "Tasks" on Padawans.net, I use another account(https://github.com/Tolik94) for submits.
 
 1. PadawansFancyCalc https://github.com/Lgeprorok/FancyCalc
 2. PadawansTask1 https://github.com/Lgeprorok/PadawansTask1
@@ -23,3 +23,5 @@ P.s. Since I have a problem with Padawans.net, I use another account(https://git
 7. PadawansTask6 https://github.com/Lgeprorok/PadawansTask6
 8. PadawansTask7 https://github.com/Lgeprorok/PadawansTask7
 9. PadawansTask8 https://github.com/Lgeprorok/PadawansTask8
+10. PadawansTask9 https://github.com/Lgeprorok/PadawansTask9
+11. PadawansTask10 https://github.com/Lgeprorok/PadawansTask10
