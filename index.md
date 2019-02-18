@@ -25,3 +25,5 @@ P.s. Since I have a problem with access to "Tasks" on Padawans.net, I use anothe
 9. PadawansTask8 https://github.com/Lgeprorok/PadawansTask8
 10. PadawansTask9 https://github.com/Lgeprorok/PadawansTask9
 11. PadawansTask10 https://github.com/Lgeprorok/PadawansTask10
+12.
+13. PadawansTask12 https://github.com/Lgeprorok/PadawansTask12
