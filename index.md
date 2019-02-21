@@ -14,7 +14,7 @@ I am interested in the device of radio engineering, and also I actively read boo
 
 P.s. Since I have a problem with access to "Tasks" on Padawans.net, I use another account(https://github.com/Tolik94) for submits.
 
-1. PadawansFancyCalc https://github.com/Lgeprorok/FancyCalc
+1. FancyCalc https://github.com/Lgeprorok/FancyCalc
 2. PadawansTask1 https://github.com/Lgeprorok/PadawansTask1
 3. PadawansTask2 https://github.com/Lgeprorok/PadawansTask2
 4. PadawansTask3 https://github.com/Lgeprorok/PadawansTask3
