@@ -29,3 +29,7 @@ P.s. Since I have a problem with access to "Tasks" on Padawans.net, I use anothe
 13. PadawansTask12 https://github.com/Lgeprorok/PadawansTask12
 14. Codewars8 https://github.com/Lgeprorok/Codewars8
 15. Codewars13 https://github.com/Lgeprorok/Codewars13
+
+## Codewars Profile ##
+Completed all Katas (basic, oop and structures)
+https://www.codewars.com/users/Lgeprorok
