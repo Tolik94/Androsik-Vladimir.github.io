@@ -28,8 +28,9 @@ P.s. Since I have a problem with access to "Tasks" on Padawans.net, I use anothe
 12. PadawansTask11 https://github.com/Lgeprorok/PadawansTask11
 13. PadawansTask12 https://github.com/Lgeprorok/PadawansTask12
 14. PadawansTask13 https://github.com/Lgeprorok/PadawansTask13
-14. Codewars8 https://github.com/Lgeprorok/Codewars8
-15. Codewars13 https://github.com/Lgeprorok/Codewars13
+15. PadawansTask15 https://github.com/Lgeprorok/PadawansTask15
+16. Codewars8 https://github.com/Lgeprorok/Codewars8
+17. Codewars13 https://github.com/Lgeprorok/Codewars13\
 
 ## Codewars Profile ##
 Completed all Katas (basic, oop and structures)
