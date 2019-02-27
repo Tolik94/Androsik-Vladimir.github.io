@@ -32,6 +32,10 @@ P.s. Since I have a problem with access to "Tasks" on Padawans.net, I use anothe
 16. Codewars8 https://github.com/Lgeprorok/Codewars8
 17. Codewars13 https://github.com/Lgeprorok/Codewars13
 18. Collection's Challenge https://github.com/Lgeprorok/FibonacciNumbers
+
 ## Codewars Profile ##
 Completed all Katas (basic, oop and structures)
 https://www.codewars.com/users/Lgeprorok
+
+## Tic-Tac-Toe_game ##
+https://github.com/Lgeprorok/Tic-Tac-Toe_game/
